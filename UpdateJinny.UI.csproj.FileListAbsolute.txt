@@ -1,0 +1,74 @@
+D:\NOTES\C# projects - WORKS!\UpdateJinny\UpdateJinny\bin\Debug\UpdateJinny.exe.config
+D:\NOTES\C# projects - WORKS!\UpdateJinny\UpdateJinny\bin\Debug\UpdateJinny.exe
+D:\NOTES\C# projects - WORKS!\UpdateJinny\UpdateJinny\bin\Debug\UpdateJinny.pdb
+D:\NOTES\C# projects - WORKS!\UpdateJinny\UpdateJinny\obj\Debug\UpdateJinny.UI.csprojResolveAssemblyReference.cache
+D:\NOTES\C# projects - WORKS!\UpdateJinny\UpdateJinny\obj\Debug\UpdateJinny.MainForm.resources
+D:\NOTES\C# projects - WORKS!\UpdateJinny\UpdateJinny\obj\Debug\UpdateJinny.Properties.Resources.resources
+D:\NOTES\C# projects - WORKS!\UpdateJinny\UpdateJinny\obj\Debug\UpdateJinny.UI.csproj.GenerateResource.Cache
+D:\NOTES\C# projects - WORKS!\UpdateJinny\UpdateJinny\obj\Debug\UpdateJinny.exe
+D:\NOTES\C# projects - WORKS!\UpdateJinny\UpdateJinny\obj\Debug\UpdateJinny.pdb
+D:\NOTES\C# projects - WORKS!\UpdateJinny\UpdateJinny\bin\Debug\HtmlAgilityPack.dll
+D:\NOTES\C# projects - WORKS!\UpdateJinny\UpdateJinny\bin\Debug\MetroFramework.Design.dll
+D:\NOTES\C# projects - WORKS!\UpdateJinny\UpdateJinny\bin\Debug\MetroFramework.dll
+D:\NOTES\C# projects - WORKS!\UpdateJinny\UpdateJinny\bin\Debug\MetroFramework.Fonts.dll
+D:\NOTES\C# projects - WORKS!\UpdateJinny\UpdateJinny\bin\Debug\HtmlAgilityPack.pdb
+D:\NOTES\C# projects - WORKS!\UpdateJinny\UpdateJinny\bin\Debug\HtmlAgilityPack.xml
+D:\NOTES\C# projects - WORKS!\UpdateJinny\UpdateJinny\obj\Debug\UpdateJinny.SettingsUI.resources
+D:\NOTES\C# projects - WORKS!\UpdateJinny\UpdateJinny\obj\Debug\UpdateJinny.NewsDescriptionUI.resources
+D:\NOTES\C# projects - WORKS!\UpdateJinny\UpdateJinny\obj\Debug\UpdateJinny.SportsNewsDescriptionUI.resources
+D:\NOTES\C# projects - Final\UpdateJinny\UpdateJinny\bin\Debug\UpdateJinny.exe.config
+D:\NOTES\C# projects - Final\UpdateJinny\UpdateJinny\obj\Debug\UpdateJinny.exe
+D:\NOTES\C# projects - Final\UpdateJinny\UpdateJinny\obj\Debug\UpdateJinny.pdb
+D:\NOTES\C# projects - Final\UpdateJinny\UpdateJinny\bin\Debug\UpdateJinny.exe
+D:\NOTES\C# projects - Final\UpdateJinny\UpdateJinny\bin\Debug\UpdateJinny.pdb
+D:\NOTES\C# projects - Final\UpdateJinny\UpdateJinny\bin\Debug\HtmlAgilityPack.dll
+D:\NOTES\C# projects - Final\UpdateJinny\UpdateJinny\bin\Debug\MetroFramework.Design.dll
+D:\NOTES\C# projects - Final\UpdateJinny\UpdateJinny\bin\Debug\MetroFramework.dll
+D:\NOTES\C# projects - Final\UpdateJinny\UpdateJinny\bin\Debug\MetroFramework.Fonts.dll
+D:\NOTES\C# projects - Final\UpdateJinny\UpdateJinny\bin\Debug\HtmlAgilityPack.pdb
+D:\NOTES\C# projects - Final\UpdateJinny\UpdateJinny\bin\Debug\HtmlAgilityPack.xml
+D:\NOTES\C# projects - Final\UpdateJinny\UpdateJinny\obj\Debug\UpdateJinny.UI.csprojResolveAssemblyReference.cache
+D:\NOTES\C# projects - Final\UpdateJinny\UpdateJinny\obj\Debug\UpdateJinny.MainForm.resources
+D:\NOTES\C# projects - Final\UpdateJinny\UpdateJinny\obj\Debug\UpdateJinny.NewsDescriptionUI.resources
+D:\NOTES\C# projects - Final\UpdateJinny\UpdateJinny\obj\Debug\UpdateJinny.Properties.Resources.resources
+D:\NOTES\C# projects - Final\UpdateJinny\UpdateJinny\obj\Debug\UpdateJinny.SettingsUI.resources
+D:\NOTES\C# projects - Final\UpdateJinny\UpdateJinny\obj\Debug\UpdateJinny.SportsNewsDescriptionUI.resources
+D:\NOTES\C# projects - Final\UpdateJinny\UpdateJinny\obj\Debug\UpdateJinny.UI.csproj.GenerateResource.Cache
+D:\NOTES\C# projects - Final\UpdateJinny\UpdateJinny\bin\Debug\UpdateJinny.Entity.dll
+D:\NOTES\C# projects - Final\UpdateJinny\UpdateJinny\bin\Debug\UpdateJinny.Framework.dll
+D:\NOTES\C# projects - Final\UpdateJinny\UpdateJinny\bin\Debug\UpdateJinny.DAL.dll
+D:\NOTES\C# projects - Final\UpdateJinny\UpdateJinny\bin\Debug\UpdateJinny.Entity.pdb
+D:\NOTES\C# projects - Final\UpdateJinny\UpdateJinny\bin\Debug\UpdateJinny.Framework.pdb
+D:\NOTES\C# projects - Final\UpdateJinny\UpdateJinny\bin\Debug\UpdateJinny.DAL.pdb
+D:\NOTES\C# projects - Final\UpdateJinny\UpdateJinny\bin\Debug\EntityFramework.dll
+D:\NOTES\C# projects - Final\UpdateJinny\UpdateJinny\bin\Debug\EntityFramework.SqlServer.dll
+D:\NOTES\C# projects - Final\UpdateJinny\UpdateJinny\bin\Debug\EntityFramework.xml
+D:\NOTES\C# projects - Final\UpdateJinny\UpdateJinny\bin\Debug\EntityFramework.SqlServer.xml
+F:\UpdateJinny\UpdateJinny\bin\Debug\UpdateJinny.exe.config
+F:\UpdateJinny\UpdateJinny\obj\Debug\UpdateJinny.exe
+F:\UpdateJinny\UpdateJinny\obj\Debug\UpdateJinny.pdb
+F:\UpdateJinny\UpdateJinny\bin\Debug\UpdateJinny.exe
+F:\UpdateJinny\UpdateJinny\bin\Debug\UpdateJinny.pdb
+F:\UpdateJinny\UpdateJinny\bin\Debug\EntityFramework.dll
+F:\UpdateJinny\UpdateJinny\bin\Debug\EntityFramework.SqlServer.dll
+F:\UpdateJinny\UpdateJinny\bin\Debug\HtmlAgilityPack.dll
+F:\UpdateJinny\UpdateJinny\bin\Debug\MetroFramework.Design.dll
+F:\UpdateJinny\UpdateJinny\bin\Debug\MetroFramework.dll
+F:\UpdateJinny\UpdateJinny\bin\Debug\MetroFramework.Fonts.dll
+F:\UpdateJinny\UpdateJinny\bin\Debug\UpdateJinny.Entity.dll
+F:\UpdateJinny\UpdateJinny\bin\Debug\UpdateJinny.Framework.dll
+F:\UpdateJinny\UpdateJinny\bin\Debug\UpdateJinny.DAL.dll
+F:\UpdateJinny\UpdateJinny\bin\Debug\UpdateJinny.Entity.pdb
+F:\UpdateJinny\UpdateJinny\bin\Debug\UpdateJinny.Framework.pdb
+F:\UpdateJinny\UpdateJinny\bin\Debug\EntityFramework.xml
+F:\UpdateJinny\UpdateJinny\bin\Debug\EntityFramework.SqlServer.xml
+F:\UpdateJinny\UpdateJinny\bin\Debug\HtmlAgilityPack.pdb
+F:\UpdateJinny\UpdateJinny\bin\Debug\HtmlAgilityPack.xml
+F:\UpdateJinny\UpdateJinny\bin\Debug\UpdateJinny.DAL.pdb
+F:\UpdateJinny\UpdateJinny\obj\Debug\UpdateJinny.UI.csprojResolveAssemblyReference.cache
+F:\UpdateJinny\UpdateJinny\obj\Debug\UpdateJinny.MainForm.resources
+F:\UpdateJinny\UpdateJinny\obj\Debug\UpdateJinny.NewsDescriptionUI.resources
+F:\UpdateJinny\UpdateJinny\obj\Debug\UpdateJinny.Properties.Resources.resources
+F:\UpdateJinny\UpdateJinny\obj\Debug\UpdateJinny.SettingsUI.resources
+F:\UpdateJinny\UpdateJinny\obj\Debug\UpdateJinny.SportsNewsDescriptionUI.resources
+F:\UpdateJinny\UpdateJinny\obj\Debug\UpdateJinny.UI.csproj.GenerateResource.Cache
